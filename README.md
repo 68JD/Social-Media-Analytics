@@ -1,6 +1,4 @@
-Here's a professional GitHub repository description you can use:
 
-### GitHub Repository Description
 
 **📊 Social Media Analytics Dashboard | Power BI**
 
